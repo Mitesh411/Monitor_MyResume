@@ -2,7 +2,7 @@
   {
     "name": "MY Resume",
     "url": "https://mitesh411.github.io/MyResume/",
-    "icon": "https://favicons.githubusercontent.com/mitesh411.github.io",
+    "icon": "https://icons.duckduckgo.com/ip3/mitesh411.github.io.ico",
     "slug": "my-resume",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 95,
-    "timeDay": 213,
-    "timeWeek": 110,
-    "timeMonth": 100,
-    "timeYear": 95,
+    "time": 94,
+    "timeDay": 38,
+    "timeWeek": 101,
+    "timeMonth": 97,
+    "timeYear": 94,
     "dailyMinutesDown": {}
   }
 ]
